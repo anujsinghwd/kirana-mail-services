@@ -24,7 +24,7 @@ const user_email_verification = (
                 <tr>
                   <td style="padding: 40px 0px 0px;">
                     <div style="text-align: left;">
-                      <div style="padding-bottom: 20px;"><img src="https://raw.githubusercontent.com/anujsinghwd/expense-ive-images/main/logo/logo.png" alt="Company" style="width: 150px;height: 150px"></div>
+                      <div style="padding-bottom: 20px;"><img src="https://res.cloudinary.com/decexqep6/image/upload/v1762529905/shivikirana-lgo-transparent_haadaj.png" alt="Company" style="width: 150px;height: 150px"></div>
                     </div>
                     <div style="padding: 20px; background-color: #ffffff;">
                       <div style="color: rgb(0, 0, 0); text-align: left;">
